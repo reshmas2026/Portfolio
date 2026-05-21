@@ -4,7 +4,7 @@
     Hi, I’m <span className="text-blue-500">Reshma S</span>
   </h1>
 
-  <h2 className="text-2xl font-semibold text-sky-600">
+  <h2 className="text-2xl font-semibold text-sky-700">
     Computer Engineering Student
   </h2>
 
