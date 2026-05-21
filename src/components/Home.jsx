@@ -32,7 +32,7 @@ function Home() {
 
           <div className="flex justify-center mb-6">
             <img
-              src="/images/women.png"
+              src="/images/reshma.png"
               alt="Reshma - Computer Engineering Student"
               className="w-48 h-48 object-cover rounded-2xl border-4 border-blue-400 shadow-md"
             />
